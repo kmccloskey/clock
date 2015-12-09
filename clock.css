@@ -1,5 +1,26 @@
 span {
-	font-size: 25px;
+	font-size: 150px;
 	font-weight: 600;
-	color: green;
+	color: #39FF15;
+	background-color: #0E0704;
+	font-family: 'Orbitron', sans-serif;
+}
+
+html {
+	background-image: url(http://sapling-inc.com/wp-content/gallery/sbp-series/Red-6-Digit-Digital-Clock-With-Logo.png);
+	background-size: cover;
+}
+
+#clock {
+	background-color: #0E0704;
+	width:1100px;
+	height: 300px;
+	margin: 0 auto;
+	text-align: center;
+	color: #39FF15;
+	font-size:180px;
+	font-weight: 600;
+	margin-top: 200px;
+	padding-top: 65px;
+	font-family: 'Orbitron', sans-serif;
 }
